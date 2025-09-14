@@ -12,7 +12,10 @@ This project tracks the **International Space Station (ISS)** in real time and g
 ## 🔧 Tech Used
 - **Python** (ISS position calculation)  
 - **Arduino** (servo + LED control)  
-- **Electronics** (servo, LED, resistors, basic wiring)  
+- **Electronics** (servo, LED, resistors, basic wiring)
+
+## Operating System Used
+Ubuntu 24.04 (Linux)
 
 ## 📸 Preview
 https://github.com/kdspacex75/-ISS-Tracking-System/blob/main/Screenshot%20from%202025-08-29%2022-48-15.png
