@@ -15,7 +15,11 @@ This project tracks the **International Space Station (ISS)** in real time and g
 - **Electronics** (servo, LED, resistors, basic wiring)  
 
 ## 📸 Preview
+https://github.com/kdspacex75/-ISS-Tracking-System/blob/main/Screenshot%20from%202025-08-29%2022-48-15.png
 
+https://github.com/kdspacex75/-ISS-Tracking-System/blob/main/Screenshot%20from%202025-08-27%2021-46-44.png
+
+https://github.com/kdspacex75/-ISS-Tracking-System/blob/main/Screenshot%20from%202025-08-29%2022-46-13.png
 
 ## 🎯 Goal
 This was a small but exciting project to practice **Python-Arduino communication** and understand how real-world space tracking works.  
