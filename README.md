@@ -14,7 +14,7 @@ This project tracks the **International Space Station (ISS)** in real time and g
 - **Arduino** (servo + LED control)  
 - **Electronics** (servo, LED, resistors, basic wiring)
 
-## Operating System Used
+## 💻 Development Environment
 Ubuntu 24.04 (Linux)
 
 ## 📸 Preview
